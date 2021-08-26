@@ -1,0 +1,44 @@
+.menu {
+
+  background-color: black;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 400;
+  color: white;
+}
+body {
+  background-color:lightgray;
+}
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+font-family: sans-serif;
+ 
+}
+.languages{
+width: 13rem;
+background-color: white;
+border-radius: 20px;
+padding: 2rem;
+
+margin:1rem 1rem 1rem 1rem;
+justify-content:space-between;
+}
+.languages p{
+  display: block;
+}
+.languages ul{
+  display: block;
+}
+.grid img {
+  border: 2px solid black;
+ border-radius: 15%;
+}
+.origami {
+ 
+  background-color: white;
+  margin: 20px;
+
+  width: 310px;
+  font-family: fantasy;
+}
